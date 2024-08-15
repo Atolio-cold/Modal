@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #b99393; 
+    background-color: #dd8fbf; 
     color: #333;
     padding: 20px;
     box-sizing: border-box;
@@ -14,7 +14,7 @@ body {
     padding: 12px 24px;
     margin: 10px;
     border: none;
-    background-color: #007bff;
+    background-color: #b12a6d;
     color: white;
     cursor: pointer;
     border-radius: 8px;
@@ -23,12 +23,12 @@ body {
   }
   
   button:hover {
-    background-color: #0056b3;
+    background-color: #4c4eaa;
     transform: scale(1.05);
   }
   
   button:active {
-    background-color: #004494;
+    background-color: #2f71bd;
     transform: scale(1);
   }
   
